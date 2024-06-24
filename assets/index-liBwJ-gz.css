@@ -1,1 +1,6 @@
-body{background-image:linear-gradient(to right,#483d8b,#000)}canvas{height:100vh}
+body {
+  background-image: linear-gradient(to right, #000, #483d8b, #000);
+}
+canvas {
+  height: 100vh;
+}
